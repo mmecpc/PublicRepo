@@ -10,7 +10,7 @@
   "environment" : "US-API-Sandbox-Staging",
   "createdBy" : "Jing Ren",
   "updatedBy" : "Jing Ren",
-  "createdOn" : "2024-05-17T05:54:00.044Z",
+  "createdOn" : "2024-05-17T07:19:00.047Z",
   "type" : "ProductCatalog",
   "repo" : true,
   "connectorId" : null,
@@ -25,7 +25,7 @@
     "commitMessage" : "up",
     "error" : null,
     "status" : "UPLOADED",
-    "commitId" : "46048bff693cf7aa58b738292dd4db5bc20bb331"
+    "commitId" : "7c8af4fb0c27e95e638fd2c81ab21a197cf90086"
   },
   "content" : {
     "settings" : [ ],
